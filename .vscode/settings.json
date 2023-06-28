@@ -1,0 +1,10 @@
+{
+    "prettier.prettierPath": "./node_modules/prettier",
+    "prettier.printWidth": 40,
+    "prettier.proseWrap": "always",
+    "prettier.quoteProps": "consistent",
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.bracketSameLine": true
+}
